@@ -82,3 +82,17 @@ This project uses modern JavaScript features and WebGL. Ensure your browser supp
 
 ## License
 This project is part of the Three.js Journey course materials.
+
+## Contributing
+1. Fork the repository
+2. Create your feature branch (`git checkout -b feature/AmazingFeature`)
+3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
+4. Push to the branch (`git push origin feature/AmazingFeature`)
+5. Open a Pull Request
+
+## Issues
+If you find any bugs or have feature requests, please create an issue using the GitHub issue tracker.
+
+## Acknowledgments
+- Three.js Journey course by Bruno Simon
+- Three.js community
