@@ -3,6 +3,8 @@
 ## Three.js Lighting Demo
 This project demonstrates various lighting techniques in Three.js, showcasing different types of lights and their effects on 3D objects. It's part of the Three.js Journey course, focusing on the Lights chapter.
 
+**Live Demo**: [threejslights.hregniez.com](https://threejslights.hregniez.com)
+
 ## Features
 - Interactive 3D scene with multiple geometric objects
 - Demonstration of all major Three.js light types:
